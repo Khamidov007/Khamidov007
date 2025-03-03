@@ -1,5 +1,5 @@
 <!-- ![logo](https://github.com/Mukhammadkodir27/Mukhammadkodir27/blob/main/Capture.PNG) -->
-<h1 align="center">Hi 👋, I'm Mukhammadkodir Abdusalomov</h1>
+<h1 align="center">Hi 👋, Khamidov Mirzakalonboy</h1>
 <h3 align="center">Software Engineer & Data Scientist</h3>
 <div style="border: 1px solid #4CAF50; border-radius: 8px; padding: 20px; background-color: #f9f9f9; font-family: Arial, sans-serif;">
     <h5 style="color: #4CAF50; text-align: left; font-weight: bold;">Profile Summary</h5>
